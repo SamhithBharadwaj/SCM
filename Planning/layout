@@ -1,0 +1,35 @@
+Hey!!
+
+let us develop a supply chain management application.
+
+here is the bassic over vieew
+
+Supply Chain Management System Java Project
+
+The term supply chain management system implies the management of businesses interconnected through a network; the management procedure includes all handling, storage and movement of raw materials, up-and-coming works in the inventory, and finished good from source to destination, i.e. from the point-of-origin to the point-of-consumption.
+
+SCMS helps companies in their supply chain management procedure by helping to keep track of the sales, clients and dealers. Here, a company deals directly with each client regarding products information, through which different requirements of clients’ are fulfilled.
+
+
+
+
+
+Supply Chain Management System Project Abstract:
+
+Supply Chain Management System is an application implemented in Java using JSP and JDBC along with HTML as front-end and MS Access as back-end database. This project is specifically targeted for production sectors where information regarding product launches are given to the clients and dealers of a particular company.
+
+This web-based system is designed to run on any computer. It automates the system of communication between the management or admin, dealers and clients of the organization/company. Additionally, it enables the user of the application to view issues via LAN/Internet. Based on the category of the user – administrator or employee, various parts of system are made accessible to the users.
+
+How the System Works:
+
+First of all, the clients provide their requirements about the products. The admin then contacts various dealers of the organization to gather the things specified by the clients. The dealers provides a list of items from which the admin selects the items which meet the requirements specification of the client.
+
+After this, admin gives the selected items to the inventory department from where the processing is done. The final product is then manufactured and delivered to the client. The manufacturing and other cost are calculated by the accounted department and sent to the client. The client’s feedback after receiving the items if sent to the admin as well as the dealers.
+
+Modules Used:
+
+There are three main modules in supply chain management system. They are briefly introduced below; refer the project report for detailed description.
+
+Admin Module: This module allows administrator to check information regarding new launched products, available products and delivery of products to clients.
+Client Module: Client first gets registered into SCM system and specifies the requirements in order to get the product built. The feedback given by the client to the administrator is processed with the help of this module.
+Dealer Module: It keeps track of various information regarding dealers including the record of items. Dealer can generate and update the list of items.
