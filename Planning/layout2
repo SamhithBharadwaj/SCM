@@ -1,0 +1,25 @@
+About Inventory Management System Project:
+
+When it comes to inventory management, there are many software packages which have been developed using different programming languages. The proposed system is developed using a fourth generation language as it can be easily interfaced with other programming languages such as c.cobol, and many more.
+
+Modules Used:
+
+Inventory management software is based on modular approach and deals with the problems faced under inventory management in a very systematic manner. The entire information procedure in this system comprises of modules such as:
+
+Indent order processing
+Purchase order processing
+Item receipt order processing
+Item issue order processing
+Item returns order processing
+Existing and Proposed System:
+
+The existing inventory management system is very difficult to handle and maintain as it is mainly built in FoxPro 2.6, a very unfriendly user interface. Whereas, the proposed system is very user friendly as it is menu driven. Once the inquiry is provided, any information about the employees can be accessed. Reports can be generated fast, and there are data security checks to disallow unauthorized access to the system.
+
+All the data and records are stored in the database which acts as a centralized place for storing data. Memory usage is less compared to the existing inventory management system. The system further provides features such menus, online options, online enquiry, etc.
+
+This computerized system mainly aims at making the overall inventory management procedure systematic. This includes works such as material entry, purchasing orders, generating stores requirements, generating complicated reports, etc. The following factors influence the overall computerization system:
+
+Maintenance: It involves getting information of raw material, and maintaining the receipts.
+Updating: The computerized inventory management system requires updating the data like purchase order, goods category, etc.
+Time: The time required to perform any operation or carry out any task using the proposed system is less than that required using the existing system.
+Reports: Generation of reports depends on purchase order, item receipt report, inquiry report, etc.
