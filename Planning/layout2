@@ -11,6 +11,7 @@ Purchase order processing
 Item receipt order processing
 Item issue order processing
 Item returns order processing
+
 Existing and Proposed System:
 
 The existing inventory management system is very difficult to handle and maintain as it is mainly built in FoxPro 2.6, a very unfriendly user interface. Whereas, the proposed system is very user friendly as it is menu driven. Once the inquiry is provided, any information about the employees can be accessed. Reports can be generated fast, and there are data security checks to disallow unauthorized access to the system.
