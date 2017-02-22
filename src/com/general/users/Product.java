@@ -11,7 +11,5 @@ public class Product {
 	}
 
 	private String productName;
-	public void hey(){
-		System.out.println("guru aytu guru");
-	}
+	
 }
